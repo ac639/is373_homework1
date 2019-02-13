@@ -1,1 +1,1 @@
-#Instructions for installing wordpress on Ubuntu 18.04
+# Instructions for installing wordpress on Ubuntu 18.04
