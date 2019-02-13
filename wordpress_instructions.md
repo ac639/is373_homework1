@@ -1,1 +1,1 @@
-this is a test
+#Instructions for installing wordpress on Ubuntu 18.04
