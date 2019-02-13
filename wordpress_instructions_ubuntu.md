@@ -94,7 +94,8 @@ If test connection was successful, hit apply and okay and then a new window will
 
 Create the wordpress database by copying/pasting the following lines: 
 
-```CREATE DATABASE wordpress;
+```
+   CREATE DATABASE wordpress;
    CREATE USER "wordpress"@"localhost" IDENTIFIED WITH mysql_native_password BY 'dog';
    GRANT ALL PRIVILEGES ON wordpress.* TO "wordpress"@"localhost";
    
