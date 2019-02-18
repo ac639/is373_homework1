@@ -23,7 +23,7 @@ Name your branch and make sure "Checkout" is selected. Your branch will be creat
 
 You can start making commits and push to Github. When you push to Github you will notice there will be a new branch.
 
-When you finish with a branch and want switch out and go to another branch, such as master, click the bottom right corner as before and select master > Checkout
+When you finish with a branch and want switch out and go to another branch, such as master, click the bottom right corner as before and under "Local Branch", select master > Checkout
 
 If you want to merge a branch you worked on into master, switch to master as explained in the previous line
 
