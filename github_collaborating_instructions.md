@@ -14,3 +14,13 @@ Once all collaborators are added, you can start developing on the repository.
 It is recommended for the master branch to kept stable and to make separate branches for developing.
 
 Each collaborator will make his/her own branch on Phpstorm and then commit and push to Github.
+
+You can create a branch in Phpstorm by clcking on the bottom right corner where it says "Git: master" and select "+ New Branch".
+
+![alt text](/img/createbranch.jpg "Phpstorm create branch")
+
+Name your branch and make sure "Checkout" is selected. Your branch will be created and phpstorm will switch you into the new branch
+
+You can start making commits and push to Github. When you push to Github you will notice there will be a new branch.
+
+To switch out of the branch and go to another branch, such as master, click the bottom right corner as before and select master > Checkout
