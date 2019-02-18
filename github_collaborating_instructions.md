@@ -25,6 +25,11 @@ You can start making commits and push to Github. When you push to Github you wil
 
 When you finish with a branch and want switch out and go to another branch, such as master, click the bottom right corner as before and under "Local Branch", select master > Checkout
 
-If you want to merge a branch you worked on into master, switch to master as explained in the previous line
+If you want to merge a branch you worked on into master, switch to master as explained in the previous line.
+
+Click on the menu again and under "Local Branch" select the branch you want to merge into master and then select the option "Merge into Current"
+
+You can then push out master to Github so that your remote master branch is the same as your local.
+
 
 
